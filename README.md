@@ -1,7 +1,17 @@
 # DCP-Solutions
-This is a collection of solutions for [Daily Coding Problems](https://www.dailycodingproblem.com), the solutions are made by [Peter Zhang](https://github.com/PeterTheAmazingAsian) and [Madeline Moore]().
+This repository is a collection of solutions for [Daily Coding Problem](https://www.dailycodingproblem.com).
+
+## Authors
+- **Madeline Moore** - [Placeholder]()
+    - Placeholder
+- **Peter Zhang** - [PeterTheAmazingAsian](https://github.com/PeterTheAmazingAsian)
+    - I made the readme lol.
 
 ## Solutions
 Below we have a list of solutions to all the DCPs we have solved so far.
   
-1. [PLACEHOLDER]() - PLACEHOLDER 
+|Day|Company        |Description  | Madeline | Peter | Link |
+|---|---------------| ----------- | -------- | ----- | ---- |
+|1  | Google        | PLACEHOLDER | -        | -     |[go]()|
+|2  | Uber          | PLACEHOLDER | -        | -     |[go]()|
+|3  | Google        | PLACEHOLDER | -        | -     |[go]()|
