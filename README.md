@@ -1,5 +1,5 @@
 # DCP-Solutions
-This repository is a collection of solutions for [Daily Coding Problem](https://www.dailycodingproblem.com).
+This repository is a collection of solutions for [Daily Coding Problem](https://www.dailycodingproblem.com) problems.
 
 ## Authors
 - **Madeline Moore** - [Placeholder]()
