@@ -94,7 +94,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |079| Facebook       | -                              | -          | -          | [go](079) |
 |080| Google         | -                              | -          | -          | [go](080) |
 |081| Yelp           | -                              | -          | -          | [go](081) |
-|082| None           | -                              | -          | -          | [go](082) |
+|082| Microsoft      | -                              | -          | -          | [go](082) |
 |083| Google         | -                              | -          | -          | [go](083) |
 |084| Amazon         | -                              | -          | -          | [go](084) |
 |085| Facebook       | -                              | -          | -          | [go](085) |
