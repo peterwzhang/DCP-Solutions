@@ -162,3 +162,10 @@ dmypy.json
 *.exe
 *.out
 *.app
+
+# c++ format files
+*.clang-format
+
+# vscode/mac stuff
+*.code-workspace
+*.DS_Store
