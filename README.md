@@ -9,7 +9,7 @@ This repository is a collection of solutions for [Daily Coding Problem](https://
     - subcribed to DCP for way too long
 
 ## Solutions
-Below we have a table of all the DCPs (1-399). The table contains the question number/day, the company that asked the question, a brief description, and a link to goto the corresponding folder. There are also two additional columns to show who has completed which problems and in which languages.
+Below we have a table of all the DCPs (1-399). The table contains the question number/day, the company that asked the question, a brief description, difficulty, and a link to goto the corresponding folder. There are also two additional columns to show who has completed which problems and in which languages.
   
 |Day| Company        | Description                    | Difficulty | Madeline   | Peter      | Link      |
 |---|----------------| ------------------------------ | ---------: | ---------- | ---------- | :-------: |
