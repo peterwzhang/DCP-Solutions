@@ -11,404 +11,404 @@ This repository is a collection of solutions for [Daily Coding Problem](https://
 ## Solutions
 Below we have a table of all the DCPs (1-399). The table contains the question number/day, the company that asked the question, a brief description, and a link to goto the corresponding folder. There are also two additional columns to show who has completed which problems and in which languages.
   
-|Day| Company        | Description                    | Madeline   | Peter      | Link      |
-|---|----------------| ------------------------------ | ---------- | ---------- | :-------: |
-|001| Google         | -                              | -          | -          | [go](001) |
-|002| Uber           | -                              | -          | -          | [go](002) |
-|003| Google         | -                              | -          | -          | [go](003) |
-|004| Stripe         | -                              | -          | -          | [go](004) |
-|005| Jane Street    | -                              | -          | -          | [go](005) |
-|006| Google         | -                              | -          | -          | [go](006) |
-|007| Facebook       | -                              | -          | -          | [go](007) |
-|008| Google         | -                              | -          | -          | [go](008) |
-|009| Airbnb         | -                              | -          | -          | [go](009) |
-|010| Apple          | -                              | -          | -          | [go](010) |
-|011| Twitter        | -                              | -          | -          | [go](011) |
-|012| Amazon         | -                              | -          | -          | [go](012) |
-|013| Amazon         | -                              | -          | -          | [go](013) |
-|014| Google         | -                              | -          | -          | [go](014) |
-|015| Facebook       | -                              | -          | -          | [go](015) |
-|016| Twitter        | -                              | -          | -          | [go](016) |
-|017| Google         | -                              | -          | -          | [go](017) |
-|018| Google         | -                              | -          | -          | [go](018) |
-|019| Facebook       | -                              | -          | -          | [go](019) |
-|020| Google         | -                              | -          | -          | [go](020) |
-|021| Snapchat       | -                              | -          | -          | [go](021) |
-|022| Microsoft      | -                              | -          | -          | [go](022) |
-|023| Google         | -                              | -          | -          | [go](023) |
-|024| Google         | -                              | -          | -          | [go](024) |
-|025| Facebook       | -                              | -          | -          | [go](025) |
-|026| Google         | -                              | -          | -          | [go](026) |
-|027| Facebook       | -                              | -          | -          | [go](027) |
-|028| Palantir       | -                              | -          | -          | [go](028) |
-|029| Amazon         | -                              | -          | -          | [go](029) |
-|030| Facebook       | -                              | -          | -          | [go](030) |
-|031| Google         | -                              | -          | -          | [go](031) |
-|032| Jane Street    | -                              | -          | -          | [go](032) |
-|033| Microsoft      | -                              | -          | -          | [go](033) |
-|034| Quora          | -                              | -          | -          | [go](034) |
-|035| Google         | -                              | -          | -          | [go](035) |
-|036| Dropbox        | -                              | -          | -          | [go](036) |
-|037| Google         | -                              | -          | -          | [go](037) |
-|038| Microsoft      | -                              | -          | -          | [go](038) |
-|039| Dropbox        | -                              | -          | -          | [go](039) |
-|040| Google         | -                              | -          | -          | [go](040) |
-|041| Facebook       | -                              | -          | -          | [go](041) |
-|042| Google         | -                              | -          | -          | [go](042) |
-|043| Amazon         | -                              | -          | -          | [go](043) |
-|044| Google         | -                              | -          | -          | [go](044) |
-|045| Two Sigma      | -                              | -          | -          | [go](045) |
-|046| Amazon         | -                              | -          | -          | [go](046) |
-|047| Facebook       | -                              | -          | -          | [go](047) |
-|048| Google         | -                              | -          | -          | [go](048) |
-|049| Amazon         | -                              | -          | -          | [go](049) |
-|050| Microsoft      | -                              | -          | -          | [go](050) |
-|051| Facebook       | -                              | -          | -          | [go](051) |
-|052| Google         | -                              | -          | -          | [go](052) |
-|053| Apple          | -                              | -          | -          | [go](053) |
-|054| Dropbox        | -                              | -          | -          | [go](054) |
-|055| Microsoft      | -                              | -          | -          | [go](055) |
-|056| Google         | -                              | -          | -          | [go](056) |
-|057| Amazon         | -                              | -          | -          | [go](057) |
-|058| Amazon         | -                              | -          | -          | [go](058) |
-|059| Google         | -                              | -          | -          | [go](059) |
-|060| Facebook       | -                              | -          | -          | [go](060) |
-|061| Google         | -                              | -          | -          | [go](061) |
-|062| Facebook       | -                              | -          | -          | [go](062) |
-|063| Microsoft      | -                              | -          | -          | [go](063) |
-|064| Google         | -                              | -          | -          | [go](064) |
-|065| Amazon         | -                              | -          | -          | [go](065) |
-|066| Square         | -                              | -          | -          | [go](066) |
-|067| Google         | -                              | -          | -          | [go](067) |
-|068| Google         | -                              | -          | -          | [go](068) |
-|069| Facebook       | -                              | -          | -          | [go](069) |
-|070| Microsoft      | -                              | -          | -          | [go](070) |
-|071| Two Sigma      | -                              | -          | -          | [go](071) |
-|072| Google         | -                              | -          | -          | [go](072) |
-|073| Google         | -                              | -          | -          | [go](073) |
-|074| Apple          | -                              | -          | -          | [go](074) |
-|075| Microsoft      | -                              | -          | -          | [go](075) |
-|076| Google         | -                              | -          | -          | [go](076) |
-|077| Snapchat       | -                              | -          | -          | [go](077) |
-|078| Google         | -                              | -          | -          | [go](078) |
-|079| Facebook       | -                              | -          | -          | [go](079) |
-|080| Google         | -                              | -          | -          | [go](080) |
-|081| Yelp           | -                              | -          | -          | [go](081) |
-|082| Microsoft      | -                              | -          | -          | [go](082) |
-|083| Google         | -                              | -          | -          | [go](083) |
-|084| Amazon         | -                              | -          | -          | [go](084) |
-|085| Facebook       | -                              | -          | -          | [go](085) |
-|086| Google         | -                              | -          | -          | [go](086) |
-|087| Uber           | -                              | -          | -          | [go](087) |
-|088| ContextLogic   | -                              | -          | -          | [go](088) |
-|089| LinkedIn       | -                              | -          | -          | [go](089) |
-|090| Google         | -                              | -          | -          | [go](090) |
-|091| Dropbox        | -                              | -          | -          | [go](091) |
-|092| Airbnb         | -                              | -          | -          | [go](092) |
-|093| Apple          | -                              | -          | -          | [go](093) |
-|094| Google         | -                              | -          | -          | [go](094) |
-|095| Palantir       | -                              | -          | -          | [go](095) |
-|096| Microsoft      | -                              | -          | -          | [go](096) |
-|097| Stripe         | -                              | -          | -          | [go](097) |
-|098| Coursera       | -                              | -          | -          | [go](098) |
-|099| Microsoft      | -                              | -          | -          | [go](099) |
-|100| Google         | -                              | -          | -          | [go](100) |
-|101| Alibaba        | -                              | -          | -          | [go](101) |
-|102| Lyft           | -                              | -          | -          | [go](102) |
-|103| Square         | -                              | -          | -          | [go](103) |
-|104| Google         | -                              | -          | -          | [go](104) |
-|105| Facebook       | -                              | -          | -          | [go](105) |
-|106| Pinterest      | -                              | -          | -          | [go](106) |
-|107| Microsoft      | -                              | -          | -          | [go](107) |
-|108| Google         | -                              | -          | -          | [go](108) |
-|109| Cisco          | -                              | -          | -          | [go](109) |
-|110| Facebook       | -                              | -          | -          | [go](110) |
-|111| Google         | -                              | -          | -          | [go](111) |
-|112| Twitter        | -                              | -          | -          | [go](112) |
-|113| Google         | -                              | -          | -          | [go](113) |
-|114| Facebook       | -                              | -          | -          | [go](114) |
-|115| Google         | -                              | -          | -          | [go](115) |
-|116| Jane Street    | -                              | -          | -          | [go](116) |
-|117| Facebook       | -                              | -          | -          | [go](117) |
-|118| Google         | -                              | -          | -          | [go](118) |
-|119| Google         | -                              | -          | -          | [go](119) |
-|120| Microsoft      | -                              | -          | -          | [go](120) |
-|121| Google         | -                              | -          | -          | [go](121) |
-|122| Zillow         | -                              | -          | -          | [go](122) |
-|123| LinkedIn       | -                              | -          | -          | [go](123) |
-|124| Microsoft      | -                              | -          | -          | [go](124) |
-|125| Google         | -                              | -          | -          | [go](125) |
-|126| Facebook       | -                              | -          | -          | [go](126) |
-|127| Microsoft      | -                              | -          | -          | [go](127) |
-|128| None           | -                              | -          | -          | [go](128) |
-|129| None           | -                              | -          | -          | [go](129) |
-|130| Facebook       | -                              | -          | -          | [go](130) |
-|131| Snapchat       | -                              | -          | -          | [go](131) |
-|132| Riot Games     | -                              | -          | -          | [go](132) |
-|133| Amazon         | -                              | -          | -          | [go](133) |
-|134| Facebook       | -                              | -          | -          | [go](134) |
-|135| Apple          | -                              | -          | -          | [go](135) |
-|136| Google         | -                              | -          | -          | [go](136) |
-|137| Amazon         | -                              | -          | -          | [go](137) |
-|138| Google         | -                              | -          | -          | [go](138) |
-|139| Google         | -                              | -          | -          | [go](139) |
-|140| Facebook       | -                              | -          | -          | [go](140) |
-|141| Microsoft      | -                              | -          | -          | [go](141) |
-|142| Google         | -                              | -          | -          | [go](142) |
-|143| Amazon         | -                              | -          | -          | [go](143) |
-|144| Google         | -                              | -          | -          | [go](144) |
-|145| Google         | -                              | -          | -          | [go](145) |
-|146| BufferBox      | -                              | -          | -          | [go](146) |
-|147| None           | -                              | -          | -          | [go](147) |
-|148| Apple          | -                              | -          | -          | [go](148) |
-|149| Goldman Sachs  | -                              | -          | -          | [go](149) |
-|150| LinkedIn       | -                              | -          | -          | [go](150) |
-|151| None           | -                              | -          | -          | [go](151) |
-|152| Triplebyte     | -                              | -          | -          | [go](152) |
-|153| None           | -                              | -          | -          | [go](153) |
-|154| Amazon         | -                              | -          | -          | [go](154) |
-|155| MongoDB        | -                              | -          | -          | [go](155) |
-|156| Facebook       | -                              | -          | -          | [go](156) |
-|157| Amazon         | -                              | -          | -          | [go](157) |
-|158| Slack          | -                              | -          | -          | [go](158) |
-|159| Google         | -                              | -          | -          | [go](159) |
-|160| Uber           | -                              | -          | -          | [go](160) |
-|161| Facebook       | -                              | -          | -          | [go](161) |
-|162| Square         | -                              | -          | -          | [go](162) |
-|163| Jane Street    | -                              | -          | -          | [go](163) |
-|164| Google         | -                              | -          | -          | [go](164) |
-|165| Google         | -                              | -          | -          | [go](165) |
-|166| Uber           | -                              | -          | -          | [go](166) |
-|167| Airbnb         | -                              | -          | -          | [go](167) |
-|168| Facebook       | -                              | -          | -          | [go](168) |
-|169| Google         | -                              | -          | -          | [go](169) |
-|170| Facebook       | -                              | -          | -          | [go](170) |
-|171| Amazon         | -                              | -          | -          | [go](171) |
-|172| Dropbox        | -                              | -          | -          | [go](172) |
-|173| Stripe         | -                              | -          | -          | [go](173) |
-|174| Microsoft      | -                              | -          | -          | [go](174) |
-|175| Google         | -                              | -          | -          | [go](175) |
-|176| Bloomberg      | -                              | -          | -          | [go](176) |
-|177| Airbnb         | -                              | -          | -          | [go](177) |
-|178| Two Sigma      | -                              | -          | -          | [go](178) |
-|179| Google         | -                              | -          | -          | [go](179) |
-|180| Google         | -                              | -          | -          | [go](180) |
-|181| Google         | -                              | -          | -          | [go](181) |
-|182| Facebook       | -                              | -          | -          | [go](182) |
-|183| Twitch         | -                              | -          | -          | [go](183) |
-|184| Amazon         | -                              | -          | -          | [go](184) |
-|185| Google         | -                              | -          | -          | [go](185) |
-|186| Microsoft      | -                              | -          | -          | [go](186) |
-|187| Google         | -                              | -          | -          | [go](187) |
-|188| Google         | -                              | -          | -          | [go](188) |
-|189| Google         | -                              | -          | -          | [go](189) |
-|190| Facebook       | -                              | -          | -          | [go](190) |
-|191| Stripe         | -                              | -          | -          | [go](191) |
-|192| Google         | -                              | -          | -          | [go](192) |
-|193| Affirm         | -                              | -          | -          | [go](193) |
-|194| Facebook       | -                              | -          | -          | [go](194) |
-|195| Google         | -                              | -          | -          | [go](195) |
-|196| Apple          | -                              | -          | -          | [go](196) |
-|197| Amazon         | -                              | -          | -          | [go](197) |
-|198| Google         | -                              | -          | -          | [go](198) |
-|199| Facebook       | -                              | -          | -          | [go](199) |
-|200| Microsoft      | -                              | -          | -          | [go](200) |
-|201| Google         | -                              | -          | -          | [go](201) |
-|202| Palantir       | -                              | -          | -          | [go](202) |
-|203| Uber           | -                              | -          | -          | [go](203) |
-|204| Amazon         | -                              | -          | -          | [go](204) |
-|205| IBM            | -                              | -          | -          | [go](205) |
-|206| Twitter        | -                              | -          | -          | [go](206) |
-|207| Dropbox        | -                              | -          | -          | [go](207) |
-|208| LinkedIn       | -                              | -          | -          | [go](208) |
-|209| YouTube        | -                              | -          | -          | [go](209) |
-|210| Apple          | -                              | -          | -          | [go](210) |
-|211| Microsoft      | -                              | -          | -          | [go](211) |
-|212| Dropbox        | -                              | -          | -          | [go](212) |
-|213| Snapchat       | -                              | -          | -          | [go](213) |
-|214| Stripe         | -                              | -          | -          | [go](214) |
-|215| Yelp           | -                              | -          | -          | [go](215) |
-|216| Facebook       | -                              | -          | -          | [go](216) |
-|217| Oracle         | -                              | -          | -          | [go](217) |
-|218| Yahoo          | -                              | -          | -          | [go](218) |
-|219| Salesforce     | -                              | -          | -          | [go](219) |
-|220| Square         | -                              | -          | -          | [go](220) |
-|221| Zillow         | -                              | -          | -          | [go](221) |
-|222| Quora          | -                              | -          | -          | [go](222) |
-|223| Palantir       | -                              | -          | -          | [go](223) |
-|224| Amazon         | -                              | -          | -          | [go](224) |
-|225| Bloomberg      | -                              | -          | -          | [go](225) |
-|226| Airbnb         | -                              | -          | -          | [go](226) |
-|227| Facebook       | -                              | -          | -          | [go](227) |
-|228| Twitter        | -                              | -          | -          | [go](228) |
-|229| Flipkart       | -                              | -          | -          | [go](229) |
-|230| Goldman Sachs  | -                              | -          | -          | [go](230) |
-|231| IBM            | -                              | -          | -          | [go](231) |
-|232| Google         | -                              | -          | -          | [go](232) |
-|233| Apple          | -                              | -          | -          | [go](233) |
-|234| Microsoft      | -                              | -          | -          | [go](234) |
-|235| Facebook       | -                              | -          | -          | [go](235) |
-|236| Nvidia         | -                              | -          | -          | [go](236) |
-|237| Amazon         | -                              | -          | -          | [go](237) |
-|238| MIT            | -                              | -          | -          | [go](238) |
-|239| Uber           | -                              | -          | -          | [go](239) |
-|240| Spotify        | -                              | -          | -          | [go](240) |
-|241| Palantir       | -                              | -          | -          | [go](241) |
-|242| Twitter        | -                              | -          | -          | [go](242) |
-|243| Etsy           | -                              | -          | -          | [go](243) |
-|244| Square         | -                              | -          | -          | [go](244) |
-|245| Yelp           | -                              | -          | -          | [go](245) |
-|246| Dropbox        | -                              | -          | -          | [go](246) |
-|247| PayPal         | -                              | -          | -          | [go](247) |
-|248| Nvidia         | -                              | -          | -          | [go](248) |
-|249| Salesforce     | -                              | -          | -          | [go](249) |
-|250| Google         | -                              | -          | -          | [go](250) |
-|251| Amazon         | -                              | -          | -          | [go](251) |
-|252| Palantir       | -                              | -          | -          | [go](252) |
-|253| PayPal         | -                              | -          | -          | [go](253) |
-|254| Yahoo          | -                              | -          | -          | [go](254) |
-|255| Microsoft      | -                              | -          | -          | [go](255) |
-|256| Fitbit         | -                              | -          | -          | [go](256) |
-|257| WhatsApp       | -                              | -          | -          | [go](257) |
-|258| Morgan Stanley | -                              | -          | -          | [go](258) |
-|259| Two Sigma      | -                              | -          | -          | [go](259) |
-|260| Pinterest      | -                              | -          | -          | [go](260) |
-|261| Amazon         | -                              | -          | -          | [go](261) |
-|262| Mozilla        | -                              | -          | -          | [go](262) |
-|263| Nest           | -                              | -          | -          | [go](263) |
-|264| LinkedIn       | -                              | -          | -          | [go](264) |
-|265| Atlassian      | -                              | -          | -          | [go](265) |
-|266| Pivotal        | -                              | -          | -          | [go](266) |
-|267| Oracle         | -                              | -          | -          | [go](267) |
-|268| Indeed         | -                              | -          | -          | [go](268) |
-|269| Microsoft      | -                              | -          | -          | [go](269) |
-|270| Twitter        | -                              | -          | -          | [go](270) |
-|271| Netflix        | -                              | -          | -          | [go](271) |
-|272| Spotify        | -                              | -          | -          | [go](272) |
-|273| Apple          | -                              | -          | -          | [go](273) |
-|274| Facebook       | -                              | -          | -          | [go](274) |
-|275| Epic           | -                              | -          | -          | [go](275) |
-|276| Dropbox        | -                              | -          | -          | [go](276) |
-|277| Google         | -                              | -          | -          | [go](277) |
-|278| Amazon         | -                              | -          | -          | [go](278) |
-|279| Twitter        | -                              | -          | -          | [go](279) |
-|280| Pandora        | -                              | -          | -          | [go](280) |
-|281| LinkedIn       | -                              | -          | -          | [go](281) |
-|282| Netflix        | -                              | -          | -          | [go](282) |
-|283| Google         | -                              | -          | -          | [go](283) |
-|284| Yext           | -                              | -          | -          | [go](284) |
-|285| Mailchimp      | -                              | -          | -          | [go](285) |
-|286| VMware         | -                              | -          | -          | [go](286) |
-|287| Quora          | -                              | -          | -          | [go](287) |
-|288| Salesforce     | -                              | -          | -          | [go](288) |
-|289| Google         | -                              | -          | -          | [go](289) |
-|290| Facebook       | -                              | -          | -          | [go](290) |
-|291| Glassdoor      | -                              | -          | -          | [go](291) |
-|292| Twitter        | -                              | -          | -          | [go](292) |
-|293| Uber           | -                              | -          | -          | [go](293) |
-|294| Square         | -                              | -          | -          | [go](294) |
-|295| Stitch Fix     | -                              | -          | -          | [go](295) |
-|296| Etsy           | -                              | -          | -          | [go](296) |
-|297| Amazon         | -                              | -          | -          | [go](297) |
-|298| Google         | -                              | -          | -          | [go](298) |
-|299| Samsung        | -                              | -          | -          | [go](299) |
-|300| Uber           | -                              | -          | -          | [go](300) |
-|301| Triplebyte     | -                              | -          | -          | [go](301) |
-|302| Uber           | -                              | -          | -          | [go](302) |
-|303| Microsoft      | -                              | -          | -          | [go](303) |
-|304| Two Sigma      | -                              | -          | -          | [go](304) |
-|305| Amazon         | -                              | -          | -          | [go](305) |
-|306| Palantir       | -                              | -          | -          | [go](306) |
-|307| Oracle         | -                              | -          | -          | [go](307) |
-|308| Quantcast      | -                              | -          | -          | [go](308) |
-|309| Walmart Labs   | -                              | -          | -          | [go](309) |
-|310| Pivotal        | -                              | -          | -          | [go](310) |
-|311| Sumo Logic     | -                              | -          | -          | [go](311) |
-|312| Wayfair        | -                              | -          | -          | [go](312) |
-|313| Citrix         | -                              | -          | -          | [go](313) |
-|314| Spotify        | -                              | -          | -          | [go](314) |
-|315| Google         | -                              | -          | -          | [go](315) |
-|316| Snapchat       | -                              | -          | -          | [go](316) |
-|317| Yahoo          | -                              | -          | -          | [go](317) |
-|318| Apple          | -                              | -          | -          | [go](318) |
-|319| Airbnb         | -                              | -          | -          | [go](319) |
-|320| Amazon         | -                              | -          | -          | [go](320) |
-|321| PagerDuty      | -                              | -          | -          | [go](321) |
-|322| Flipkart       | -                              | -          | -          | [go](322) |
-|323| Dropbox        | -                              | -          | -          | [go](323) |
-|324| Amazon         | -                              | -          | -          | [go](324) |
-|325| Jane Street    | -                              | -          | -          | [go](325) |
-|326| Netflix        | -                              | -          | -          | [go](326) |
-|327| Salesforce     | -                              | -          | -          | [go](327) |
-|328| Facebook       | -                              | -          | -          | [go](328) |
-|329| Amazon         | -                              | -          | -          | [go](329) |
-|330| Dropbox        | -                              | -          | -          | [go](330) |
-|331| LinkedIn       | -                              | -          | -          | [go](331) |
-|332| Jane Street    | -                              | -          | -          | [go](332) |
-|333| Pinterest      | -                              | -          | -          | [go](333) |
-|334| Twitter        | -                              | -          | -          | [go](334) |
-|335| Google         | -                              | -          | -          | [go](335) |
-|336| Microsoft      | -                              | -          | -          | [go](336) |
-|337| Apple          | -                              | -          | -          | [go](337) |
-|338| Facebook       | -                              | -          | -          | [go](338) |
-|339| Microsoft      | -                              | -          | -          | [go](339) |
-|340| Google         | -                              | -          | -          | [go](340) |
-|341| Google         | -                              | -          | -          | [go](341) |
-|342| Stripe         | -                              | -          | -          | [go](342) |
-|343| Google         | -                              | -          | -          | [go](343) |
-|344| Adobe          | -                              | -          | -          | [go](344) |
-|345| Google         | -                              | -          | -          | [go](345) |
-|346| Airbnb         | -                              | -          | -          | [go](346) |
-|347| Yahoo          | -                              | -          | -          | [go](347) |
-|348| Zillow         | -                              | -          | -          | [go](348) |
-|349| Grammarly      | -                              | -          | -          | [go](349) |
-|350| Uber           | -                              | -          | -          | [go](350) |
-|351| Quora          | -                              | -          | -          | [go](351) |
-|352| Palantir       | -                              | -          | -          | [go](352) |
-|353| Square         | -                              | -          | -          | [go](353) |
-|354| Google         | -                              | -          | -          | [go](354) |
-|355| Airbnb         | -                              | -          | -          | [go](355) |
-|356| Netflix        | -                              | -          | -          | [go](356) |
-|357| LinkedIn       | -                              | -          | -          | [go](357) |
-|358| Dropbox        | -                              | -          | -          | [go](358) |
-|359| Slack          | -                              | -          | -          | [go](359) |
-|360| Spotify        | -                              | -          | -          | [go](360) |
-|361| Facebook       | -                              | -          | -          | [go](361) |
-|362| Twitter        | -                              | -          | -          | [go](362) |
-|363| Squarespace    | -                              | -          | -          | [go](363) |
-|364| Facebook       | -                              | -          | -          | [go](364) |
-|365| Google         | -                              | -          | -          | [go](365) |
-|366| Flexport       | -                              | -          | -          | [go](366) |
-|367| Two Sigma      | -                              | -          | -          | [go](367) |
-|368| Google         | -                              | -          | -          | [go](368) |
-|369| Two Sigma      | -                              | -          | -          | [go](369) |
-|370| Postmates      | -                              | -          | -          | [go](370) |
-|371| Google         | -                              | -          | -          | [go](371) |
-|372| Amazon         | -                              | -          | -          | [go](372) |
-|373| Facebook       | -                              | -          | -          | [go](373) |
-|374| Amazon         | -                              | -          | -          | [go](374) |
-|375| Google         | -                              | -          | -          | [go](375) |
-|376| Google         | -                              | -          | -          | [go](376) |
-|377| Microsoft      | -                              | -          | -          | [go](377) |
-|378| Coinbase       | -                              | -          | -          | [go](378) |
-|379| Microsoft      | -                              | -          | -          | [go](379) |
-|380| Nextdoor       | -                              | -          | -          | [go](380) |
-|381| Paypal         | -                              | -          | -          | [go](381) |
-|382| Google         | -                              | -          | -          | [go](382) |
-|383| Gusto          | -                              | -          | -          | [go](383) |
-|384| WeWork         | -                              | -          | -          | [go](384) |
-|385| Apple          | -                              | -          | -          | [go](385) |
-|386| Twitter        | -                              | -          | -          | [go](386) |
-|387| Amazon         | -                              | -          | -          | [go](387) |
-|388| Airtable       | -                              | -          | -          | [go](388) |
-|389| Google         | -                              | -          | -          | [go](389) |
-|390| Two Sigma      | -                              | -          | -          | [go](390) |
-|391| Facebook       | -                              | -          | -          | [go](391) |
-|392| Google         | -                              | -          | -          | [go](392) |
-|393| Airbnb         | -                              | -          | -          | [go](393) |
-|394| Uber           | -                              | -          | -          | [go](394) |
-|395| Robinhood      | -                              | -          | -          | [go](395) |
-|396| Google         | -                              | -          | -          | [go](396) |
-|397| Microsoft      | -                              | -          | -          | [go](397) |
-|398| Amazon         | -                              | -          | -          | [go](398) |
-|399| Facebook       | -                              | -          | -          | [go](399) |
+|Day| Company        | Description                    | Difficulty | Madeline   | Peter      | Link      |
+|---|----------------| ------------------------------ | ---------: | ---------- | ---------- | :-------: |
+|001| Google         | -                              | Easy       | -          | -          | [go](001) |
+|002| Uber           | -                              | Hard       | -          | -          | [go](002) |
+|003| Google         | -                              | Medium     | -          | -          | [go](003) |
+|004| Stripe         | -                              | Hard       | -          | -          | [go](004) |
+|005| Jane Street    | -                              | Medium     | -          | -          | [go](005) |
+|006| Google         | -                              | Hard       | -          | -          | [go](006) |
+|007| Facebook       | -                              | Medium     | -          | -          | [go](007) |
+|008| Google         | -                              | Easy       | -          | -          | [go](008) |
+|009| Airbnb         | -                              | Hard       | -          | -          | [go](009) |
+|010| Apple          | -                              | Medium     | -          | -          | [go](010) |
+|011| Twitter        | -                              | Medium     | -          | -          | [go](011) |
+|012| Amazon         | -                              | Hard       | -          | -          | [go](012) |
+|013| Amazon         | -                              | Hard       | -          | -          | [go](013) |
+|014| Google         | -                              | Medium     | -          | -          | [go](014) |
+|015| Facebook       | -                              | Medium     | -          | -          | [go](015) |
+|016| Twitter        | -                              | Easy       | -          | -          | [go](016) |
+|017| Google         | -                              | Hard       | -          | -          | [go](017) |
+|018| Google         | -                              | Hard       | -          | -          | [go](018) |
+|019| Facebook       | -                              | Medium     | -          | -          | [go](019) |
+|020| Google         | -                              | Easy       | -          | -          | [go](020) |
+|021| Snapchat       | -                              | Easy       | -          | -          | [go](021) |
+|022| Microsoft      | -                              | Medium     | -          | -          | [go](022) |
+|023| Google         | -                              | Easy       | -          | -          | [go](023) |
+|024| Google         | -                              | Medium     | -          | -          | [go](024) |
+|025| Facebook       | -                              | Hard       | -          | -          | [go](025) |
+|026| Google         | -                              | Medium     | -          | -          | [go](026) |
+|027| Facebook       | -                              | Easy       | -          | -          | [go](027) |
+|028| Palantir       | -                              | Medium     | -          | -          | [go](028) |
+|029| Amazon         | -                              | Easy       | -          | -          | [go](029) |
+|030| Facebook       | -                              | Medium     | -          | -          | [go](030) |
+|031| Google         | -                              | Easy       | -          | -          | [go](031) |
+|032| Jane Street    | -                              | Hard       | -          | -          | [go](032) |
+|033| Microsoft      | -                              | Easy       | -          | -          | [go](033) |
+|034| Quora          | -                              | Medium     | -          | -          | [go](034) |
+|035| Google         | -                              | Hard       | -          | -          | [go](035) |
+|036| Dropbox        | -                              | Medium     | -          | -          | [go](036) |
+|037| Google         | -                              | Easy       | -          | -          | [go](037) |
+|038| Microsoft      | -                              | Hard       | -          | -          | [go](038) |
+|039| Dropbox        | -                              | Medium     | -          | -          | [go](039) |
+|040| Google         | -                              | Hard       | -          | -          | [go](040) |
+|041| Facebook       | -                              | Medium     | -          | -          | [go](041) |
+|042| Google         | -                              | Hard       | -          | -          | [go](042) |
+|043| Amazon         | -                              | Easy       | -          | -          | [go](043) |
+|044| Google         | -                              | Medium     | -          | -          | [go](044) |
+|045| Two Sigma      | -                              | Easy       | -          | -          | [go](045) |
+|046| Amazon         | -                              | Hard       | -          | -          | [go](046) |
+|047| Facebook       | -                              | Easy       | -          | -          | [go](047) |
+|048| Google         | -                              | Medium     | -          | -          | [go](048) |
+|049| Amazon         | -                              | Medium     | -          | -          | [go](049) |
+|050| Microsoft      | -                              | Easy       | -          | -          | [go](050) |
+|051| Facebook       | -                              | Medium     | -          | -          | [go](051) |
+|052| Google         | -                              | Hard       | -          | -          | [go](052) |
+|053| Apple          | -                              | Medium     | -          | -          | [go](053) |
+|054| Dropbox        | -                              | Hard       | -          | -          | [go](054) |
+|055| Microsoft      | -                              | Easy       | -          | -          | [go](055) |
+|056| Google         | -                              | Medium     | -          | -          | [go](056) |
+|057| Amazon         | -                              | Medium     | -          | -          | [go](057) |
+|058| Amazon         | -                              | Medium     | -          | -          | [go](058) |
+|059| Google         | -                              | Hard       | -          | -          | [go](059) |
+|060| Facebook       | -                              | Medium     | -          | -          | [go](060) |
+|061| Google         | -                              | Medium     | -          | -          | [go](061) |
+|062| Facebook       | -                              | Medium     | -          | -          | [go](062) |
+|063| Microsoft      | -                              | Easy       | -          | -          | [go](063) |
+|064| Google         | -                              | Hard       | -          | -          | [go](064) |
+|065| Amazon         | -                              | Easy       | -          | -          | [go](065) |
+|066| Square         | -                              | Medium     | -          | -          | [go](066) |
+|067| Google         | -                              | Hard       | -          | -          | [go](067) |
+|068| Google         | -                              | Medium     | -          | -          | [go](068) |
+|069| Facebook       | -                              | Easy       | -          | -          | [go](069) |
+|070| Microsoft      | -                              | Easy       | -          | -          | [go](070) |
+|071| Two Sigma      | -                              | Easy       | -          | -          | [go](071) |
+|072| Google         | -                              | Hard       | -          | -          | [go](072) |
+|073| Google         | -                              | Easy       | -          | -          | [go](073) |
+|074| Apple          | -                              | Medium     | -          | -          | [go](074) |
+|075| Microsoft      | -                              | Hard       | -          | -          | [go](075) |
+|076| Google         | -                              | Medium     | -          | -          | [go](076) |
+|077| Snapchat       | -                              | Easy       | -          | -          | [go](077) |
+|078| Google         | -                              | Medium     | -          | -          | [go](078) |
+|079| Facebook       | -                              | Medium     | -          | -          | [go](079) |
+|080| Google         | -                              | Easy       | -          | -          | [go](080) |
+|081| Yelp           | -                              | Easy       | -          | -          | [go](081) |
+|082| Microsoft      | -                              | Easy       | -          | -          | [go](082) |
+|083| Google         | -                              | Medium     | -          | -          | [go](083) |
+|084| Amazon         | -                              | Medium     | -          | -          | [go](084) |
+|085| Facebook       | -                              | Medium     | -          | -          | [go](085) |
+|086| Google         | -                              | Medium     | -          | -          | [go](086) |
+|087| Uber           | -                              | Hard       | -          | -          | [go](087) |
+|088| ContextLogic   | -                              | Medium     | -          | -          | [go](088) |
+|089| LinkedIn       | -                              | Medium     | -          | -          | [go](089) |
+|090| Google         | -                              | Medium     | -          | -          | [go](090) |
+|091| Dropbox        | -                              | Easy       | -          | -          | [go](091) |
+|092| Airbnb         | -                              | Hard       | -          | -          | [go](092) |
+|093| Apple          | -                              | Hard       | -          | -          | [go](093) |
+|094| Google         | -                              | Easy       | -          | -          | [go](094) |
+|095| Palantir       | -                              | Hard       | -          | -          | [go](095) |
+|096| Microsoft      | -                              | Easy       | -          | -          | [go](096) |
+|097| Stripe         | -                              | Medium     | -          | -          | [go](097) |
+|098| Coursera       | -                              | Easy       | -          | -          | [go](098) |
+|099| Microsoft      | -                              | Medium     | -          | -          | [go](099) |
+|100| Google         | -                              | Easy       | -          | -          | [go](100) |
+|101| Alibaba        | -                              | Easy       | -          | -          | [go](101) |
+|102| Lyft           | -                              | Medium     | -          | -          | [go](102) |
+|103| Square         | -                              | Medium     | -          | -          | [go](103) |
+|104| Google         | -                              | Easy       | -          | -          | [go](104) |
+|105| Facebook       | -                              | Easy       | -          | -          | [go](105) |
+|106| Pinterest      | -                              | Medium     | -          | -          | [go](106) |
+|107| Microsoft      | -                              | Easy       | -          | -          | [go](107) |
+|108| Google         | -                              | Easy       | -          | -          | [go](108) |
+|109| Cisco          | -                              | Medium     | -          | -          | [go](109) |
+|110| Facebook       | -                              | Medium     | -          | -          | [go](110) |
+|111| Google         | -                              | Hard       | -          | -          | [go](111) |
+|112| Twitter        | -                              | Hard       | -          | -          | [go](112) |
+|113| Google         | -                              | Medium     | -          | -          | [go](113) |
+|114| Facebook       | -                              | Hard       | -          | -          | [go](114) |
+|115| Google         | -                              | Hard       | -          | -          | [go](115) |
+|116| Jane Street    | -                              | Medium     | -          | -          | [go](116) |
+|117| Facebook       | -                              | Easy       | -          | -          | [go](117) |
+|118| Google         | -                              | Easy       | -          | -          | [go](118) |
+|119| Google         | -                              | Medium     | -          | -          | [go](119) |
+|120| Microsoft      | -                              | Medium     | -          | -          | [go](120) |
+|121| Google         | -                              | Hard       | -          | -          | [go](121) |
+|122| Zillow         | -                              | Medium     | -          | -          | [go](122) |
+|123| LinkedIn       | -                              | Hard       | -          | -          | [go](123) |
+|124| Microsoft      | -                              | Easy       | -          | -          | [go](124) |
+|125| Google         | -                              | Easy       | -          | -          | [go](125) |
+|126| Facebook       | -                              | Medium     | -          | -          | [go](126) |
+|127| Microsoft      | -                              | Easy       | -          | -          | [go](127) |
+|128| None           | -                              | Medium     | -          | -          | [go](128) |
+|129| None           | -                              | Medium     | -          | -          | [go](129) |
+|130| Facebook       | -                              | Medium     | -          | -          | [go](130) |
+|131| Snapchat       | -                              | Medium     | -          | -          | [go](131) |
+|132| Riot Games     | -                              | Easy       | -          | -          | [go](132) |
+|133| Amazon         | -                              | Medium     | -          | -          | [go](133) |
+|134| Facebook       | -                              | Easy       | -          | -          | [go](134) |
+|135| Apple          | -                              | Easy       | -          | -          | [go](135) |
+|136| Google         | -                              | Medium     | -          | -          | [go](136) |
+|137| Amazon         | -                              | Medium     | -          | -          | [go](137) |
+|138| Google         | -                              | Hard       | -          | -          | [go](138) |
+|139| Google         | -                              | Medium     | -          | -          | [go](139) |
+|140| Facebook       | -                              | Medium     | -          | -          | [go](140) |
+|141| Microsoft      | -                              | Hard       | -          | -          | [go](141) |
+|142| Google         | -                              | Hard       | -          | -          | [go](142) |
+|143| Amazon         | -                              | Medium     | -          | -          | [go](143) |
+|144| Google         | -                              | Medium     | -          | -          | [go](144) |
+|145| Google         | -                              | Easy       | -          | -          | [go](145) |
+|146| BufferBox      | -                              | Medium     | -          | -          | [go](146) |
+|147| None           | -                              | Hard       | -          | -          | [go](147) |
+|148| Apple          | -                              | Medium     | -          | -          | [go](148) |
+|149| Goldman Sachs  | -                              | Hard       | -          | -          | [go](149) |
+|150| LinkedIn       | -                              | Hard       | -          | -          | [go](150) |
+|151| None           | -                              | Medium     | -          | -          | [go](151) |
+|152| Triplebyte     | -                              | Medium     | -          | -          | [go](152) |
+|153| None           | -                              | Hard       | -          | -          | [go](153) |
+|154| Amazon         | -                              | Easy       | -          | -          | [go](154) |
+|155| MongoDB        | -                              | Medium     | -          | -          | [go](155) |
+|156| Facebook       | -                              | Medium     | -          | -          | [go](156) |
+|157| Amazon         | -                              | Easy       | -          | -          | [go](157) |
+|158| Slack          | -                              | Medium     | -          | -          | [go](158) |
+|159| Google         | -                              | Easy       | -          | -          | [go](159) |
+|160| Uber           | -                              | Hard       | -          | -          | [go](160) |
+|161| Facebook       | -                              | Easy       | -          | -          | [go](161) |
+|162| Square         | -                              | Medium     | -          | -          | [go](162) |
+|163| Jane Street    | -                              | Hard       | -          | -          | [go](163) |
+|164| Google         | -                              | Medium     | -          | -          | [go](164) |
+|165| Google         | -                              | Medium     | -          | -          | [go](165) |
+|166| Uber           | -                              | Medium     | -          | -          | [go](166) |
+|167| Airbnb         | -                              | Hard       | -          | -          | [go](167) |
+|168| Facebook       | -                              | Medium     | -          | -          | [go](168) |
+|169| Google         | -                              | Medium     | -          | -          | [go](169) |
+|170| Facebook       | -                              | Medium     | -          | -          | [go](170) |
+|171| Amazon         | -                              | Easy       | -          | -          | [go](171) |
+|172| Dropbox        | -                              | Medium     | -          | -          | [go](172) |
+|173| Stripe         | -                              | Easy       | -          | -          | [go](173) |
+|174| Microsoft      | -                              | Medium     | -          | -          | [go](174) |
+|175| Google         | -                              | Easy       | -          | -          | [go](175) |
+|176| Bloomberg      | -                              | Easy       | -          | -          | [go](176) |
+|177| Airbnb         | -                              | Easy       | -          | -          | [go](177) |
+|178| Two Sigma      | -                              | Hard       | -          | -          | [go](178) |
+|179| Google         | -                              | Medium     | -          | -          | [go](179) |
+|180| Google         | -                              | Medium     | -          | -          | [go](180) |
+|181| Google         | -                              | Hard       | -          | -          | [go](181) |
+|182| Facebook       | -                              | Medium     | -          | -          | [go](182) |
+|183| Twitch         | -                              | Hard       | -          | -          | [go](183) |
+|184| Amazon         | -                              | Easy       | -          | -          | [go](184) |
+|185| Google         | -                              | Easy       | -          | -          | [go](185) |
+|186| Microsoft      | -                              | Hard       | -          | -          | [go](186) |
+|187| Google         | -                              | Easy       | -          | -          | [go](187) |
+|188| Google         | -                              | Medium     | -          | -          | [go](188) |
+|189| Google         | -                              | Easy       | -          | -          | [go](189) |
+|190| Facebook       | -                              | Medium     | -          | -          | [go](190) |
+|191| Stripe         | -                              | Easy       | -          | -          | [go](191) |
+|192| Google         | -                              | Medium     | -          | -          | [go](192) |
+|193| Affirm         | -                              | Hard       | -          | -          | [go](193) |
+|194| Facebook       | -                              | Easy       | -          | -          | [go](194) |
+|195| Google         | -                              | Hard       | -          | -          | [go](195) |
+|196| Apple          | -                              | Easy       | -          | -          | [go](196) |
+|197| Amazon         | -                              | Easy       | -          | -          | [go](197) |
+|198| Google         | -                              | Medium     | -          | -          | [go](198) |
+|199| Facebook       | -                              | Hard       | -          | -          | [go](199) |
+|200| Microsoft      | -                              | Hard       | -          | -          | [go](200) |
+|201| Google         | -                              | Easy       | -          | -          | [go](201) |
+|202| Palantir       | -                              | Easy       | -          | -          | [go](202) |
+|203| Uber           | -                              | Medium     | -          | -          | [go](203) |
+|204| Amazon         | -                              | Easy       | -          | -          | [go](204) |
+|205| IBM            | -                              | Easy       | -          | -          | [go](205) |
+|206| Twitter        | -                              | Easy       | -          | -          | [go](206) |
+|207| Dropbox        | -                              | Medium     | -          | -          | [go](207) |
+|208| LinkedIn       | -                              | Medium     | -          | -          | [go](208) |
+|209| YouTube        | -                              | Hard       | -          | -          | [go](209) |
+|210| Apple          | -                              | Easy       | -          | -          | [go](210) |
+|211| Microsoft      | -                              | Medium     | -          | -          | [go](211) |
+|212| Dropbox        | -                              | Easy       | -          | -          | [go](212) |
+|213| Snapchat       | -                              | Medium     | -          | -          | [go](213) |
+|214| Stripe         | -                              | Easy       | -          | -          | [go](214) |
+|215| Yelp           | -                              | Medium     | -          | -          | [go](215) |
+|216| Facebook       | -                              | Medium     | -          | -          | [go](216) |
+|217| Oracle         | -                              | Hard       | -          | -          | [go](217) |
+|218| Yahoo          | -                              | Medium     | -          | -          | [go](218) |
+|219| Salesforce     | -                              | Hard       | -          | -          | [go](219) |
+|220| Square         | -                              | Medium     | -          | -          | [go](220) |
+|221| Zillow         | -                              | Easy       | -          | -          | [go](221) |
+|222| Quora          | -                              | Medium     | -          | -          | [go](222) |
+|223| Palantir       | -                              | Hard       | -          | -          | [go](223) |
+|224| Amazon         | -                              | Easy       | -          | -          | [go](224) |
+|225| Bloomberg      | -                              | Easy       | -          | -          | [go](225) |
+|226| Airbnb         | -                              | Hard       | -          | -          | [go](226) |
+|227| Facebook       | -                              | Easy       | -          | -          | [go](227) |
+|228| Twitter        | -                              | Medium     | -          | -          | [go](228) |
+|229| Flipkart       | -                              | Medium     | -          | -          | [go](229) |
+|230| Goldman Sachs  | -                              | Medium     | -          | -          | [go](230) |
+|231| IBM            | -                              | Easy       | -          | -          | [go](231) |
+|232| Google         | -                              | Easy       | -          | -          | [go](232) |
+|233| Apple          | -                              | Easy       | -          | -          | [go](233) |
+|234| Microsoft      | -                              | Hard       | -          | -          | [go](234) |
+|235| Facebook       | -                              | Hard       | -          | -          | [go](235) |
+|236| Nvidia         | -                              | Medium     | -          | -          | [go](236) |
+|237| Amazon         | -                              | Easy       | -          | -          | [go](237) |
+|238| MIT            | -                              | Hard       | -          | -          | [go](238) |
+|239| Uber           | -                              | Medium     | -          | -          | [go](239) |
+|240| Spotify        | -                              | Hard       | -          | -          | [go](240) |
+|241| Palantir       | -                              | Easy       | -          | -          | [go](241) |
+|242| Twitter        | -                              | Hard       | -          | -          | [go](242) |
+|243| Etsy           | -                              | Medium     | -          | -          | [go](243) |
+|244| Square         | -                              | Easy       | -          | -          | [go](244) |
+|245| Yelp           | -                              | Medium     | -          | -          | [go](245) |
+|246| Dropbox        | -                              | Medium     | -          | -          | [go](246) |
+|247| PayPal         | -                              | Easy       | -          | -          | [go](247) |
+|248| Nvidia         | -                              | Hard       | -          | -          | [go](248) |
+|249| Salesforce     | -                              | Hard       | -          | -          | [go](249) |
+|250| Google         | -                              | Medium     | -          | -          | [go](250) |
+|251| Amazon         | -                              | Medium     | -          | -          | [go](251) |
+|252| Palantir       | -                              | Easy       | -          | -          | [go](252) |
+|253| PayPal         | -                              | Medium     | -          | -          | [go](253) |
+|254| Yahoo          | -                              | Medium     | -          | -          | [go](254) |
+|255| Microsoft      | -                              | Easy       | -          | -          | [go](255) |
+|256| Fitbit         | -                              | Medium     | -          | -          | [go](256) |
+|257| WhatsApp       | -                              | Easy       | -          | -          | [go](257) |
+|258| Morgan Stanley | -                              | Easy       | -          | -          | [go](258) |
+|259| Two Sigma      | -                              | Hard       | -          | -          | [go](259) |
+|260| Pinterest      | -                              | Medium     | -          | -          | [go](260) |
+|261| Amazon         | -                              | Easy       | -          | -          | [go](261) |
+|262| Mozilla        | -                              | Medium     | -          | -          | [go](262) |
+|263| Nest           | -                              | Medium     | -          | -          | [go](263) |
+|264| LinkedIn       | -                              | Hard       | -          | -          | [go](264) |
+|265| Atlassian      | -                              | Easy       | -          | -          | [go](265) |
+|266| Pivotal        | -                              | Easy       | -          | -          | [go](266) |
+|267| Oracle         | -                              | Hard       | -          | -          | [go](267) |
+|268| Indeed         | -                              | Medium     | -          | -          | [go](268) |
+|269| Microsoft      | -                              | Easy       | -          | -          | [go](269) |
+|270| Twitter        | -                              | Medium     | -          | -          | [go](270) |
+|271| Netflix        | -                              | Hard       | -          | -          | [go](271) |
+|272| Spotify        | -                              | Medium     | -          | -          | [go](272) |
+|273| Apple          | -                              | Easy       | -          | -          | [go](273) |
+|274| Facebook       | -                              | Hard       | -          | -          | [go](274) |
+|275| Epic           | -                              | Medium     | -          | -          | [go](275) |
+|276| Dropbox        | -                              | Hard       | -          | -          | [go](276) |
+|277| Google         | -                              | Easy       | -          | -          | [go](277) |
+|278| Amazon         | -                              | Easy       | -          | -          | [go](278) |
+|279| Twitter        | -                              | Easy       | -          | -          | [go](279) |
+|280| Pandora        | -                              | Easy       | -          | -          | [go](280) |
+|281| LinkedIn       | -                              | Medium     | -          | -          | [go](281) |
+|282| Netflix        | -                              | Easy       | -          | -          | [go](282) |
+|283| Google         | -                              | Easy       | -          | -          | [go](283) |
+|284| Yext           | -                              | Medium     | -          | -          | [go](284) |
+|285| Mailchimp      | -                              | Medium     | -          | -          | [go](285) |
+|286| VMware         | -                              | Hard       | -          | -          | [go](286) |
+|287| Quora          | -                              | Medium     | -          | -          | [go](287) |
+|288| Salesforce     | -                              | Medium     | -          | -          | [go](288) |
+|289| Google         | -                              | Hard       | -          | -          | [go](289) |
+|290| Facebook       | -                              | Easy       | -          | -          | [go](290) |
+|291| Glassdoor      | -                              | Medium     | -          | -          | [go](291) |
+|292| Twitter        | -                              | Hard       | -          | -          | [go](292) |
+|293| Uber           | -                              | Hard       | -          | -          | [go](293) |
+|294| Square         | -                              | Medium     | -          | -          | [go](294) |
+|295| Stitch Fix     | -                              | Medium     | -          | -          | [go](295) |
+|296| Etsy           | -                              | Hard       | -          | -          | [go](296) |
+|297| Amazon         | -                              | Medium     | -          | -          | [go](297) |
+|298| Google         | -                              | Easy       | -          | -          | [go](298) |
+|299| Samsung        | -                              | Medium     | -          | -          | [go](299) |
+|300| Uber           | -                              | Easy       | -          | -          | [go](300) |
+|301| Triplebyte     | -                              | Medium     | -          | -          | [go](301) |
+|302| Uber           | -                              | Medium     | -          | -          | [go](302) |
+|303| Microsoft      | -                              | Easy       | -          | -          | [go](303) |
+|304| Two Sigma      | -                              | Hard       | -          | -          | [go](304) |
+|305| Amazon         | -                              | Easy       | -          | -          | [go](305) |
+|306| Palantir       | -                              | Medium     | -          | -          | [go](306) |
+|307| Oracle         | -                              | Easy       | -          | -          | [go](307) |
+|308| Quantcast      | -                              | Hard       | -          | -          | [go](308) |
+|309| Walmart Labs   | -                              | Medium     | -          | -          | [go](309) |
+|310| Pivotal        | -                              | Easy       | -          | -          | [go](310) |
+|311| Sumo Logic     | -                              | Easy       | -          | -          | [go](311) |
+|312| Wayfair        | -                              | Easy       | -          | -          | [go](312) |
+|313| Citrix         | -                              | Hard       | -          | -          | [go](313) |
+|314| Spotify        | -                              | Medium     | -          | -          | [go](314) |
+|315| Google         | -                              | Easy       | -          | -          | [go](315) |
+|316| Snapchat       | -                              | Medium     | -          | -          | [go](316) |
+|317| Yahoo          | -                              | Medium     | -          | -          | [go](317) |
+|318| Apple          | -                              | Hard       | -          | -          | [go](318) |
+|319| Airbnb         | -                              | Hard       | -          | -          | [go](319) |
+|320| Amazon         | -                              | Medium     | -          | -          | [go](320) |
+|321| PagerDuty      | -                              | Easy       | -          | -          | [go](321) |
+|322| Flipkart       | -                              | Medium     | -          | -          | [go](322) |
+|323| Dropbox        | -                              | Medium     | -          | -          | [go](323) |
+|324| Amazon         | -                              | Easy       | -          | -          | [go](324) |
+|325| Jane Street    | -                              | Easy       | -          | -          | [go](325) |
+|326| Netflix        | -                              | Hard       | -          | -          | [go](326) |
+|327| Salesforce     | -                              | Easy       | -          | -          | [go](327) |
+|328| Facebook       | -                              | Medium     | -          | -          | [go](328) |
+|329| Amazon         | -                              | Hard       | -          | -          | [go](329) |
+|330| Dropbox        | -                              | Hard       | -          | -          | [go](330) |
+|331| LinkedIn       | -                              | Medium     | -          | -          | [go](331) |
+|332| Jane Street    | -                              | Easy       | -          | -          | [go](332) |
+|333| Pinterest      | -                              | Medium     | -          | -          | [go](333) |
+|334| Twitter        | -                              | Easy       | -          | -          | [go](334) |
+|335| Google         | -                              | Hard       | -          | -          | [go](335) |
+|336| Microsoft      | -                              | Medium     | -          | -          | [go](336) |
+|337| Apple          | -                              | Hard       | -          | -          | [go](337) |
+|338| Facebook       | -                              | Medium     | -          | -          | [go](338) |
+|339| Microsoft      | -                              | Easy       | -          | -          | [go](339) |
+|340| Google         | -                              | Easy       | -          | -          | [go](340) |
+|341| Google         | -                              | Easy       | -          | -          | [go](341) |
+|342| Stripe         | -                              | Medium     | -          | -          | [go](342) |
+|343| Google         | -                              | Medium     | -          | -          | [go](343) |
+|344| Adobe          | -                              | Hard       | -          | -          | [go](344) |
+|345| Google         | -                              | Medium     | -          | -          | [go](345) |
+|346| Airbnb         | -                              | Medium     | -          | -          | [go](346) |
+|347| Yahoo          | -                              | Easy       | -          | -          | [go](347) |
+|348| Zillow         | -                              | Easy       | -          | -          | [go](348) |
+|349| Grammarly      | -                              | Hard       | -          | -          | [go](349) |
+|350| Uber           | -                              | Medium     | -          | -          | [go](350) |
+|351| Quora          | -                              | Hard       | -          | -          | [go](351) |
+|352| Palantir       | -                              | Easy       | -          | -          | [go](352) |
+|353| Square         | -                              | Medium     | -          | -          | [go](353) |
+|354| Google         | -                              | Hard       | -          | -          | [go](354) |
+|355| Airbnb         | -                              | Hard       | -          | -          | [go](355) |
+|356| Netflix        | -                              | Hard       | -          | -          | [go](356) |
+|357| LinkedIn       | -                              | Hard       | -          | -          | [go](357) |
+|358| Dropbox        | -                              | Hard       | -          | -          | [go](358) |
+|359| Slack          | -                              | Easy       | -          | -          | [go](359) |
+|360| Spotify        | -                              | Medium     | -          | -          | [go](360) |
+|361| Facebook       | -                              | Medium     | -          | -          | [go](361) |
+|362| Twitter        | -                              | Easy       | -          | -          | [go](362) |
+|363| Squarespace    | -                              | Medium     | -          | -          | [go](363) |
+|364| Facebook       | -                              | Medium     | -          | -          | [go](364) |
+|365| Google         | -                              | Hard       | -          | -          | [go](365) |
+|366| Flexport       | -                              | Medium     | -          | -          | [go](366) |
+|367| Two Sigma      | -                              | Medium     | -          | -          | [go](367) |
+|368| Google         | -                              | Hard       | -          | -          | [go](368) |
+|369| Two Sigma      | -                              | Medium     | -          | -          | [go](369) |
+|370| Postmates      | -                              | Easy       | -          | -          | [go](370) |
+|371| Google         | -                              | Hard       | -          | -          | [go](371) |
+|372| Amazon         | -                              | Easy       | -          | -          | [go](372) |
+|373| Facebook       | -                              | Hard       | -          | -          | [go](373) |
+|374| Amazon         | -                              | Hard       | -          | -          | [go](374) |
+|375| Google         | -                              | Medium     | -          | -          | [go](375) |
+|376| Google         | -                              | Easy       | -          | -          | [go](376) |
+|377| Microsoft      | -                              | Hard       | -          | -          | [go](377) |
+|378| Coinbase       | -                              | Medium     | -          | -          | [go](378) |
+|379| Microsoft      | -                              | Easy       | -          | -          | [go](379) |
+|380| Nextdoor       | -                              | Medium     | -          | -          | [go](380) |
+|381| Paypal         | -                              | Easy       | -          | -          | [go](381) |
+|382| Google         | -                              | Easy       | -          | -          | [go](382) |
+|383| Gusto          | -                              | Medium     | -          | -          | [go](383) |
+|384| WeWork         | -                              | Hard       | -          | -          | [go](384) |
+|385| Apple          | -                              | Medium     | -          | -          | [go](385) |
+|386| Twitter        | -                              | Easy       | -          | -          | [go](386) |
+|387| Amazon         | -                              | Medium     | -          | -          | [go](387) |
+|388| Airtable       | -                              | Medium     | -          | -          | [go](388) |
+|389| Google         | -                              | Hard       | -          | -          | [go](389) |
+|390| Two Sigma      | -                              | Medium     | -          | -          | [go](390) |
+|391| Facebook       | -                              | Hard       | -          | -          | [go](391) |
+|392| Google         | -                              | Hard       | -          | -          | [go](392) |
+|393| Airbnb         | -                              | Medium     | -          | -          | [go](393) |
+|394| Uber           | -                              | Easy       | -          | -          | [go](394) |
+|395| Robinhood      | -                              | Medium     | -          | -          | [go](395) |
+|396| Google         | -                              | Hard       | -          | -          | [go](396) |
+|397| Microsoft      | -                              | Medium     | -          | -          | [go](397) |
+|398| Amazon         | -                              | Medium     | -          | -          | [go](398) |
+|399| Facebook       | -                              | Hard       | -          | -          | [go](399) |
