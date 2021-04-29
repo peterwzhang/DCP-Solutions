@@ -2,8 +2,9 @@
 This repository is a collection of solutions for [Daily Coding Problem](https://www.dailycodingproblem.com) problems.
 
 ## Authors
-- **Madeline Moore** - [Placeholder]()
-    - Placeholder
+- **Madeline Moore** - [mcmoore11](https://github.com/mcmoore11)
+    - told Peter about the DCPs... he had already been subscribed for over a year
+    - managed all folders
 - **Peter Zhang** - [PeterTheAmazingAsian](https://github.com/PeterTheAmazingAsian)
     - made the readme lol
     - subcribed to DCP for way too long
