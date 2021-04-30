@@ -54,14 +54,17 @@ bool solution3(vector<int> list, int k) {
 }
 
 int main() {
+    cout << "Test 1" << endl;
     vector<int> inputList = {10, 15, 3, 7};
     int k = 17;
     cout << solution1(inputList, k) << endl;
     cout << solution2(inputList, k) << endl;
     cout << solution3(inputList, k) << endl;
 
+    cout << "Test 2" << endl;
     k = 16;
     cout << solution1(inputList, k) << endl;
     cout << solution2(inputList, k) << endl;
     cout << solution3(inputList, k) << endl;
+    return 0;
 }
