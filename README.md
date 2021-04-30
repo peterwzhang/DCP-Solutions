@@ -14,8 +14,8 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
   
 |Day| Company        | Description                    | Difficulty | Madeline   | Peter      | Link      |
 |---|----------------| ------------------------------ | ---------: | ---------- | ---------- | :-------: |
-|001| Google         | Given a list of numbers and a number k, return whether any two numbers from thelist add up to k. | Easy       | -          |C++, Python| [go](solutions/001) |
-|002| Uber           | -                              | Hard       | -          | -          | [go](solutions/002) |
+|001| Google         | Given a list of numbers and a number k, return whether any two numbers from the list add up to k. | Easy       | -          |C++, Python| [go](solutions/001) |
+|002| Uber           | Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. | Hard       | -          |C++, Python| [go](solutions/002) |
 |003| Google         | -                              | Medium     | -          | -          | [go](solutions/003) |
 |004| Stripe         | -                              | Hard       | -          | -          | [go](solutions/004) |
 |005| Jane Street    | -                              | Medium     | -          | -          | [go](solutions/005) |
