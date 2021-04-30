@@ -14,7 +14,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
   
 |Day| Company        | Description                    | Difficulty | Madeline   | Peter      | Link      |
 |---|----------------| ------------------------------ | ---------: | ---------- | ---------- | :-------: |
-|001| Google         | -                              | Easy       | -          | -          | [go](solutions/001) |
+|001| Google         | Given a list of numbers and a number k, return whether any two numbers from thelist add up to k. | Easy       | -          |C++, Python| [go](solutions/001) |
 |002| Uber           | -                              | Hard       | -          | -          | [go](solutions/002) |
 |003| Google         | -                              | Medium     | -          | -          | [go](solutions/003) |
 |004| Stripe         | -                              | Hard       | -          | -          | [go](solutions/004) |
