@@ -1,17 +1,26 @@
-#calculate product of list
-def product(numlist, n):
-  result = 1
-  for l in numlist:
-    result *= l
-  return result
+def productArray(numlist, n):
+  if n == 1:
+    print(0)
+    return
+
+  #Allocate memory for product array
+  products = [1 for i in range(n)]
+  temp = 1
+
+  #create product array
+  for i in range(n):
+    products[i] = temp
+    temp *= numlist[i]
+
+  temp = 1
+  for i in range(n - 1, -1, -1):
+    products[i] *= temp
+    temp *= numlist[i]
+
+  print(products)
+
 
 #read in list
 n = int(input("Enter number of elements: "))
 numlist = list(map(int, input("\nEnter numbers: ").strip().split()))[ : n]
-#create new list
-bigProduct = product(numlist, n)
-for i in range(0, n):
-  numlist[i] = int(bigProduct / numlist[i])
-print(numlist)
-
-#FIXME: find solution without division
+productArray(numlist, n)
