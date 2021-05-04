@@ -4,11 +4,11 @@ def productArray(numlist, n):
     return
 
   #Allocate memory for product array
-  products = [1 for i in range(n)]
+  products = [1 for i in range(0, n)]
   temp = 1
 
   #create product array
-  for i in range(n):
+  for i in range(0, n):
     products[i] = temp
     temp *= numlist[i]
 
