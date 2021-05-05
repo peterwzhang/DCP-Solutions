@@ -17,7 +17,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |001| Google         | Given a list of numbers and a number k, return whether any two numbers from the list add up to k. | Easy       | -          |C++, Python| [go](solutions/001) |
 |002| Uber           | Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. | Hard       | -          |C++, Python| [go](solutions/002) |
 |003| Google         | Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree. | Medium     | -          |C++, Python| [go](solutions/003) |
-|004| Stripe         | -                              | Hard       | -          | -          | [go](solutions/004) |
+|004| Stripe         | Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well. | Hard       | -          |C++, Python| [go](solutions/004) |
 |005| Jane Street    | -                              | Medium     | -          | -          | [go](solutions/005) |
 |006| Google         | -                              | Hard       | -          | -          | [go](solutions/006) |
 |007| Facebook       | -                              | Medium     | -          | -          | [go](solutions/007) |
