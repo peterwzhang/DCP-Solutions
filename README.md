@@ -1,5 +1,6 @@
 # DCP-Solutions
-This repository is a collection of solutions for [Daily Coding Problem](https://www.dailycodingproblem.com) problems. A daily coding problem a day keeps the unemployment away...
+This repository is a collection of solutions for [Daily Coding Problem](https://www.dailycodingproblem.com) problems.  
+"A daily coding problem a day keeps the unemployment away..."
 
 ## Authors
 - **Madeline Moore** - [mcmoore11](https://github.com/mcmoore11)
@@ -18,27 +19,27 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |002| Uber           | Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. | Hard       | -          |C++, Python| [go](solutions/002) |
 |003| Google         | Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree. | Medium     | -          |C++, Python| [go](solutions/003) |
 |004| Stripe         | Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well. | Hard       | -          |C++, Python| [go](solutions/004) |
-|005| Jane Street    | -                              | Medium     | -          | -          | [go](solutions/005) |
-|006| Google         | -                              | Hard       | -          | -          | [go](solutions/006) |
-|007| Facebook       | -                              | Medium     | -          | -          | [go](solutions/007) |
-|008| Google         | -                              | Easy       | -          | -          | [go](solutions/008) |
-|009| Airbnb         | -                              | Hard       | -          | -          | [go](solutions/009) |
-|010| Apple          | -                              | Medium     | -          | -          | [go](solutions/010) |
-|011| Twitter        | -                              | Medium     | -          | -          | [go](solutions/011) |
-|012| Amazon         | -                              | Hard       | -          | -          | [go](solutions/012) |
-|013| Amazon         | -                              | Hard       | -          | -          | [go](solutions/013) |
-|014| Google         | -                              | Medium     | -          | -          | [go](solutions/014) |
-|015| Facebook       | -                              | Medium     | -          | -          | [go](solutions/015) |
-|016| Twitter        | -                              | Easy       | -          | -          | [go](solutions/016) |
-|017| Google         | -                              | Hard       | -          | -          | [go](solutions/017) |
-|018| Google         | -                              | Hard       | -          | -          | [go](solutions/018) |
-|019| Facebook       | -                              | Medium     | -          | -          | [go](solutions/019) |
-|020| Google         | -                              | Easy       | -          | -          | [go](solutions/020) |
-|021| Snapchat       | -                              | Easy       | -          | -          | [go](solutions/021) |
-|022| Microsoft      | -                              | Medium     | -          | -          | [go](solutions/022) |
-|023| Google         | -                              | Easy       | -          | -          | [go](solutions/023) |
-|024| Google         | -                              | Medium     | -          | -          | [go](solutions/024) |
-|025| Facebook       | -                              | Hard       | -          | -          | [go](solutions/025) |
+|005| Jane Street    | Implement car and cdr. cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first and last element of that pair. | Medium     | -          | -          | [go](solutions/005) |
+|006| Google         | Implement an XOR linked list; it has an add(element) which adds the element to the end, and a get(index) which returns the node at index. | Hard       | -          | -          | [go](solutions/006) |
+|007| Facebook       | Given the mapping a = 1, b = 2, ... z = 26, and an encoded message, count the number of ways it can be decoded. | Medium     | -          | -          | [go](solutions/007) |
+|008| Google         | Given the root to a binary tree, count the number of unival subtrees. | Easy       | -          | -          | [go](solutions/008) |
+|009| Airbnb         | Given a list of integers, write a function that returns the largest sum of non-adjacent numbers. Numbers can be 0 or negative. | Hard       | -          | -          | [go](solutions/009) |
+|010| Apple          | Implement a job scheduler which takes in a function f and an integer n, and calls f after n milliseconds. | Medium     | -          | -          | [go](solutions/010) |
+|011| Twitter        | Implement an autocomplete system. That is, given a query string s and a set of all possible query strings, return all strings in the set that have s as a prefix. | Medium     | -          | -          | [go](solutions/011) |
+|012| Amazon         | There exists a staircase with N steps, and you can climb up either 1 or 2 steps at a time. Given N, write a function that returns the number of unique ways you can climb the staircase. The order of the steps matters. | Hard       | -          | -          | [go](solutions/012) |
+|013| Amazon         | Given an integer k and a string s, find the length of the longest substring that contains at most k distinct characters. | Hard       | -          | -          | [go](solutions/013) |
+|014| Google         | The area of a circle is defined as πr^2. Estimate π to 3 decimal places using a Monte Carlo method. | Medium     | -          | -          | [go](solutions/014) |
+|015| Facebook       | Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability. | Medium     | -          | -          | [go](solutions/015) |
+|016| Twitter        | You run an e-commerce website and want to record the last N order ids in a log. Implement a data structure to accomplish this | Easy       | -          | -          | [go](solutions/016) |
+|017| Google         | Given a string representing the file system in the above format, return the length of the longest absolute path to a file in the abstracted file system. If there is no file in the system, return 0. | Hard       | -          | -          | [go](solutions/017) |
+|018| Google         | Given an array of integers and a number k, where 1 <= k <= length of the array, compute the maximum values of each subarray of length k. | Hard       | -          | -          | [go](solutions/018) |
+|019| Facebook       | Goal of minimizing cost while ensuring that no two neighboring houses are of the same color. Given an N by K matrix where the nth row and kth column represents the cost to build the nthhouse with kth color, return the minimum cost which achieves this goal. | Medium     | -          | -          | [go](solutions/019) |
+|020| Google         | Given two singly linked lists that intersect at some point, find the intersecting node. The lists are non-cyclical. | Easy       | -          | -          | [go](solutions/020) |
+|021| Snapchat       | Given an array of time intervals (start, end) for classroom lectures (possibly overlapping), find the minimum number of rooms required. | Easy       | -          | -          | [go](solutions/021) |
+|022| Microsoft      | Given a dictionary of words and a string made up of those words (no spaces), return the original sentence in a list. | Medium     | -          | -          | [go](solutions/022) |
+|023| Google         | You are given an M by N matrix consisting of booleans that represents a board. Each True boolean represents a wall. Each False boolean represents a tile you can walk on. Given this matrix, a start coordinate, and an end coordinate, return the minimum number of steps required to reach the end coordinate from the start. | Easy       | -          | -          | [go](solutions/023) |
+|024| Google         | Implement locking in a binary tree. A binary tree node can be locked or unlocked only if all of its descendants or ancestors are not locked. | Medium     | -          | -          | [go](solutions/024) |
+|025| Facebook       | Implement regular expression matching with the following special characters: . and * | Hard       | -          | -          | [go](solutions/025) |
 |026| Google         | -                              | Medium     | -          | -          | [go](solutions/026) |
 |027| Facebook       | -                              | Easy       | -          | -          | [go](solutions/027) |
 |028| Palantir       | -                              | Medium     | -          | -          | [go](solutions/028) |
