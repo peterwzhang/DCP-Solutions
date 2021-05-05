@@ -1,5 +1,5 @@
 # DCP-Solutions
-This repository is a collection of solutions for [Daily Coding Problem](https://www.dailycodingproblem.com) problems.
+This repository is a collection of solutions for [Daily Coding Problem](https://www.dailycodingproblem.com) problems. A daily coding problem a day keeps the unemployment away...
 
 ## Authors
 - **Madeline Moore** - [mcmoore11](https://github.com/mcmoore11)
