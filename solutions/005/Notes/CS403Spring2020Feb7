@@ -1,0 +1,49 @@
+topics: paramaters that are subprograms, calling subprograms indirectly, design issues for functions, overloaded subprograms, generic subprograms, user definited overloaded operators, closures, coroutines
+
+paramaters that are subprogram names 
+issues: are paramaters types checked?
+
+shallow binding - environment of the call statement that enacts the passed subprogram, dynamic-scoped languages 
+deep binding - 
+ad hog binding -
+
+calling subprograms indirectly 
+several subprograms to be called and the correct one is not known until execution (event handling and gui)
+C# method pointers are implemented as objects called delegate
+ex. public delegate int Change(int x) can be instantiated with any method that takes int and return int Change chgfun1 = new Change(fun1)
+
+design issues for functions
+side effects allowed?
+parameters should always be in-mode to reduce side effect (like ada)
+what type of return values or allowed
+most imperative languages restrict return types 
+C allows any type except arrays and functions
+C++ is like C but with user defined types 
+Java and C# can return anytype but not methods 
+python and ruby can return any class or methods (first class objects)
+Lua allows functions to return multiple values 
+
+Generic subprograms 
+a generic or polymorphic subprograms takes parameters and 
+
+C++ generaic subprograms are preceded with template clause that list the generic vars, which can be type names or clas names 
+template <class Type>{
+Type max(Type first, Type, second)
+return first > second ? first : second:
+}
+In java parameters must be classes and generic methods are instantiated just once as truly generic methods 
+restrictions can be spcified on range of classes 
+C# supports generic methods similar to java, but actual type parameters can be infered but C# does not support wildcard characters
+F# infers a generic type of it cant determine type or return type of function, such types are denoted with apostrophe and single letter 
+functions can be defined to have generic parameters 
+
+user defined operarator overloading
+operators can be overloaded in C++, python, and ruby 
+
+Closures (important concept, difference of 40k salary)
+A closure is a subprogram and the referencing environment where it was defined 
+ex: a function that is defined in a function has access to its own variables, the variables of the other function, and global variables is a closure
+C# uses closure by using a nested anonymous type delegate;
+
+Coroutines - subprogram that has multiple entries and controls them itself
+supported in lua, also called symmetric control
