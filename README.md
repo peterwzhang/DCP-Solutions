@@ -287,7 +287,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |270| Twitter        | -                              | Medium     | -          | -          | [go](solutions/270) |
 |271| Netflix        | -                              | Hard       | -          | -          | [go](solutions/271) |
 |272| Spotify        | -                              | Medium     | -          | -          | [go](solutions/272) |
-|273| Apple          | -                              | Easy       | -          | -          | [go](solutions/273) |
+|273| Apple          | A fixed point in an array is an element whose value is equal to its index. Given a sorted array of distinct elements, return a fixed point, if one exists. Otherwise, return False. | Easy       | -          |C++| [go](solutions/273) |
 |274| Facebook       | -                              | Hard       | -          | -          | [go](solutions/274) |
 |275| Epic           | -                              | Medium     | -          | -          | [go](solutions/275) |
 |276| Dropbox        | -                              | Hard       | -          | -          | [go](solutions/276) |
