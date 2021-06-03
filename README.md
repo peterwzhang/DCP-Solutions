@@ -386,7 +386,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |369| Two Sigma      | -                              | Medium     | -          | -          | [go](solutions/369) |
 |370| Postmates      | -                              | Easy       | -          | -          | [go](solutions/370) |
 |371| Google         | -                              | Hard       | -          | -          | [go](solutions/371) |
-|372| Amazon         | -                              | Easy       | -          | -          | [go](solutions/372) |
+|372| Amazon         | Write a function that takes a natural number as input and returns the number of digits the input has. Don't use any loops. | Easy       | -          | C++ | [go](solutions/372) |
 |373| Facebook       | -                              | Hard       | -          | -          | [go](solutions/373) |
 |374| Amazon         | -                              | Hard       | -          | -          | [go](solutions/374) |
 |375| Google         | -                              | Medium     | -          | -          | [go](solutions/375) |
