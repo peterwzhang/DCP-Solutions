@@ -247,7 +247,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |230| Goldman Sachs  | -                              | Medium     | -          | -          | [go](solutions/230) |
 |231| IBM            | -                              | Easy       | -          | -          | [go](solutions/231) |
 |232| Google         | -                              | Easy       | -          | -          | [go](solutions/232) |
-|233| Apple          | -                              | Easy       | -          | -          | [go](solutions/233) |
+|233| Apple          | Implement the function fib(n), which returns the nth number in the Fibonacci sequence, using only O(1) space. | Easy       | -          | C++ | [go](solutions/233) |
 |234| Microsoft      | -                              | Hard       | -          | -          | [go](solutions/234) |
 |235| Facebook       | -                              | Hard       | -          | -          | [go](solutions/235) |
 |236| Nvidia         | -                              | Medium     | -          | -          | [go](solutions/236) |
