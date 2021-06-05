@@ -105,7 +105,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |088| ContextLogic   | -                              | Medium     | -          | -          | [go](solutions/088) |
 |089| LinkedIn       | -                              | Medium     | -          | -          | [go](solutions/089) |
 |090| Google         | -                              | Medium     | -          | -          | [go](solutions/090) |
-|091| Dropbox        | -                              | Easy       | -          | -          | [go](solutions/091) |
+|091| Dropbox        | Fix the code snippet to print 0-9 | Easy       | -          | Python | [go](solutions/091) |
 |092| Airbnb         | -                              | Hard       | -          | -          | [go](solutions/092) |
 |093| Apple          | -                              | Hard       | -          | -          | [go](solutions/093) |
 |094| Google         | -                              | Easy       | -          | -          | [go](solutions/094) |
