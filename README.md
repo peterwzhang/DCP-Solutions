@@ -192,7 +192,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |175| Google         | -                              | Easy       | -          | -          | [go](solutions/175) |
 |176| Bloomberg      | -                              | Easy       | -          | -          | [go](solutions/176) |
 |177| Airbnb         | -                              | Easy       | -          | -          | [go](solutions/177) |
-|178| Two Sigma      | -                              | Hard       | -          | -          | [go](solutions/178) |
+|178| Two Sigma      | Find the expected values of 5->6 and 5->5 dice games. | Hard       | -          | C++ | [go](solutions/178) |
 |179| Google         | -                              | Medium     | -          | -          | [go](solutions/179) |
 |180| Google         | -                              | Medium     | -          | -          | [go](solutions/180) |
 |181| Google         | -                              | Hard       | -          | -          | [go](solutions/181) |
