@@ -10,16 +10,15 @@ int binary_search(vector<int> arr, int element) {
     while (low < high) {
         int mid = (low + high) / 2;
         if (arr[mid] == element) return mid;
-        if (arr[low] <= arr[mid]) { // left half sorted
+        if (arr[low] <= arr[mid]) {  // left half sorted
             if (arr[low] <= element && arr[mid] >= element)
                 high = mid - 1;
-            else // arr[low] > element && arr[mid] < element
+            else  // arr[low] > element && arr[mid] < element
                 low = mid + 1;
-        }
-        else { // right half sorted
+        } else {  // right half sorted
             if (arr[mid] <= element && arr[high] >= element)
                 low = mid + 1;
-            else // arr[mid] > element && arr[high] < element
+            else  // arr[mid] > element && arr[high] < element
                 high = mid - 1;
         }
     }
