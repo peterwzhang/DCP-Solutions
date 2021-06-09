@@ -51,7 +51,8 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |034| Quora          | -                              | Medium     | -          | -          | [go](solutions/034) |
 |035| Google         | -                              | Hard       | -          | -          | [go](solutions/035) |
 |036| Dropbox        | -                              | Medium     | -          | -          | [go](solutions/036) |
-|037| Google         | -                              | Easy       | -          | -          | [go](solutions/037) |
+|037| Google         | The power set of a set is the set of all its subsets. Write a function that,
+given a set, generates its power set. | Easy       | -          | C++ | [go](solutions/037) |
 |038| Microsoft      | -                              | Hard       | -          | -          | [go](solutions/038) |
 |039| Dropbox        | -                              | Medium     | -          | -          | [go](solutions/039) |
 |040| Google         | -                              | Hard       | -          | -          | [go](solutions/040) |
