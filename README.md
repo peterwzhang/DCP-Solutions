@@ -15,8 +15,8 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
   
 |Day| Company        | Description                    | Difficulty | Madeline   | Peter      | Link      |
 |---|----------------| ------------------------------ | ---------: | ---------- | ---------- | :-------: |
-|001| Google         | Given a list of numbers and a number k, return whether any two numbers from the list add up to k. | Easy       | -          |C++, Python| [go](solutions/001) |
-|002| Uber           | Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. | Hard       | -          |C++, Python| [go](solutions/002) |
+|001| Google         | Given a list of numbers and a number k, return whether any two numbers from the list add up to k. | Easy       | Python |C++, Python| [go](solutions/001) |
+|002| Uber           | Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i. | Hard       | Python |C++, Python| [go](solutions/002) |
 |003| Google         | Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree. | Medium     | -          |C++, Python| [go](solutions/003) |
 |004| Stripe         | Given an array of integers, find the first missing positive integer in linear time and constant space. In other words, find the lowest positive integer that does not exist in the array. The array can contain duplicates and negative numbers as well. | Hard       | -          |C++, Python| [go](solutions/004) |
 |005| Jane Street    | Implement car and cdr. cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first and last element of that pair. | Medium     | -          | C++, Python | [go](solutions/005) |
@@ -408,7 +408,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |391| Facebook       | -                              | Hard       | -          | -          | [go](solutions/391) |
 |392| Google         | -                              | Hard       | -          | -          | [go](solutions/392) |
 |393| Airbnb         | -                              | Medium     | -          | -          | [go](solutions/393) |
-|394| Uber           | -                              | Easy       | -          | -          | [go](solutions/394) |
+|394| Uber           | Given a binary tree and an integer k, return whether there exists a root-to-leaf path that sums up to k. | Easy       | -          | C++ | [go](solutions/394) |
 |395| Robinhood      | -                              | Medium     | -          | -          | [go](solutions/395) |
 |396| Google         | -                              | Hard       | -          | -          | [go](solutions/396) |
 |397| Microsoft      | -                              | Medium     | -          | -          | [go](solutions/397) |
