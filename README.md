@@ -63,7 +63,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |046| Amazon         | -                              | Hard       | -          | -          | [go](solutions/046) |
 |047| Facebook       | -                              | Easy       | -          | -          | [go](solutions/047) |
 |048| Google         | -                              | Medium     | -          | -          | [go](solutions/048) |
-|049| Amazon         | -                              | Medium     | -          | -          | [go](solutions/049) |
+|049| Amazon         | Given an array of numbers, find the maximum sum of any contiguous subarray of the array. | Medium     | -          | C++ | [go](solutions/049) |
 |050| Microsoft      | -                              | Easy       | -          | -          | [go](solutions/050) |
 |051| Facebook       | -                              | Medium     | -          | -          | [go](solutions/051) |
 |052| Google         | -                              | Hard       | -          | -          | [go](solutions/052) |
