@@ -194,7 +194,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |177| Airbnb         | -                              | Easy       | -          | -          | [go](solutions/177) |
 |178| Two Sigma      | Find the expected values of 5->6 and 5->5 dice games. | Hard       | -          | C++ | [go](solutions/178) |
 |179| Google         | -                              | Medium     | -          | -          | [go](solutions/179) |
-|180| Google         | -                              | Medium     | -          | -          | [go](solutions/180) |
+|180| Google         | Given a stack of N elements, interleave the first half of the stack with the second half reversed using only one other queue. This should be done in-place. | Medium     | -          | C++ | [go](solutions/180) |
 |181| Google         | -                              | Hard       | -          | -          | [go](solutions/181) |
 |182| Facebook       | -                              | Medium     | -          | -          | [go](solutions/182) |
 |183| Twitch         | -                              | Hard       | -          | -          | [go](solutions/183) |
