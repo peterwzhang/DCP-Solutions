@@ -83,7 +83,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |066| Square         | -                              | Medium     | -          | -          | [go](solutions/066) |
 |067| Google         | -                              | Hard       | -          | -          | [go](solutions/067) |
 |068| Google         | -                              | Medium     | -          | -          | [go](solutions/068) |
-|069| Facebook       | -                              | Easy       | -          | -          | [go](solutions/069) |
+|069| Facebook       | Given a list of integers, return the largest product that can be made by multiplying any three integers. | Easy       | -          | C++ | [go](solutions/069) |
 |070| Microsoft      | -                              | Easy       | -          | -          | [go](solutions/070) |
 |071| Two Sigma      | -                              | Easy       | -          | -          | [go](solutions/071) |
 |072| Google         | -                              | Hard       | -          | -          | [go](solutions/072) |
