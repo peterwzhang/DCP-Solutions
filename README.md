@@ -203,7 +203,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |186| Microsoft      | -                              | Hard       | -          | -          | [go](solutions/186) |
 |187| Google         | -                              | Easy       | -          | -          | [go](solutions/187) |
 |188| Google         | -                              | Medium     | -          | -          | [go](solutions/188) |
-|189| Google         | -                              | Easy       | -          | -          | [go](solutions/189) |
+|189| Google         | Given an array of elements, return the length of the longest subarray where all its elements are distinct. | Easy       | -          | C++ | [go](solutions/189) |
 |190| Facebook       | Given a circular array, compute its maximum subarray sum in O(n) time. A subarray can be empty, and in this case the sum is 0. | Medium     | -          | C++ | [go](solutions/190) |
 |191| Stripe         | -                              | Easy       | -          | -          | [go](solutions/191) |
 |192| Google         | -                              | Medium     | -          | -          | [go](solutions/192) |
