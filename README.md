@@ -361,7 +361,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |344| Adobe          | -                              | Hard       | -          | -          | [go](solutions/344) |
 |345| Google         | -                              | Medium     | -          | -          | [go](solutions/345) |
 |346| Airbnb         | -                              | Medium     | -          | -          | [go](solutions/346) |
-|347| Yahoo          | -                              | Easy       | -          | -          | [go](solutions/347) |
+|347| Yahoo          | You are given a string of length N and a parameter k. The string can be manipulated by taking one of the first k letters and moving it to the end. | Easy       | -          | C++ | [go](solutions/347) |
 |348| Zillow         | -                              | Easy       | -          | -          | [go](solutions/348) |
 |349| Grammarly      | -                              | Hard       | -          | -          | [go](solutions/349) |
 |350| Uber           | -                              | Medium     | -          | -          | [go](solutions/350) |
