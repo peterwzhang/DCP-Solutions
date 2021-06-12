@@ -220,7 +220,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |203| Uber           | -                              | Medium     | -          | -          | [go](solutions/203) |
 |204| Amazon         | -                              | Easy       | -          | -          | [go](solutions/204) |
 |205| IBM            | -                              | Easy       | -          | -          | [go](solutions/205) |
-|206| Twitter        | -                              | Easy       | -          | -          | [go](solutions/206) |
+|206| Twitter        | Given an array and a permutation, apply the permutation to the array. | Easy       | -          | C++ | [go](solutions/206) |
 |207| Dropbox        | -                              | Medium     | -          | -          | [go](solutions/207) |
 |208| LinkedIn       | -                              | Medium     | -          | -          | [go](solutions/208) |
 |209| YouTube        | -                              | Hard       | -          | -          | [go](solutions/209) |
