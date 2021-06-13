@@ -348,7 +348,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |331| LinkedIn       | -                              | Medium     | -          | -          | [go](solutions/331) |
 |332| Jane Street    | -                              | Easy       | -          | -          | [go](solutions/332) |
 |333| Pinterest      | -                              | Medium     | -          | -          | [go](solutions/333) |
-|334| Twitter        | -                              | Easy       | -          | -          | [go](solutions/334) |
+|334| Twitter        | Write a function that plays the 24 game. | Easy       | -          | C++ | [go](solutions/334) |
 |335| Google         | -                              | Hard       | -          | -          | [go](solutions/335) |
 |336| Microsoft      | -                              | Medium     | -          | -          | [go](solutions/336) |
 |337| Apple          | -                              | Hard       | -          | -          | [go](solutions/337) |
