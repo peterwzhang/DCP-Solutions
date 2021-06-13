@@ -79,7 +79,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |062| Facebook       | -                              | Medium     | -          | -          | [go](solutions/062) |
 |063| Microsoft      | -                              | Easy       | -          | -          | [go](solutions/063) |
 |064| Google         | -                              | Hard       | -          | -          | [go](solutions/064) |
-|065| Amazon         | -                              | Easy       | -          | -          | [go](solutions/065) |
+|065| Amazon         | Given a N by M matrix of numbers, print out the matrix in a clockwise spiral. | Easy       | -          | C++ | [go](solutions/065) |
 |066| Square         | -                              | Medium     | -          | -          | [go](solutions/066) |
 |067| Google         | -                              | Hard       | -          | -          | [go](solutions/067) |
 |068| Google         | -                              | Medium     | -          | -          | [go](solutions/068) |
