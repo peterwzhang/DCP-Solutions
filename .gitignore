@@ -169,3 +169,5 @@ dmypy.json
 # vscode/mac stuff
 *.code-workspace
 *.DS_Store
+*.plist
+*.vscode
