@@ -325,7 +325,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |308| Quantcast      | -                              | Hard       | -          | -          | [go](solutions/308) |
 |309| Walmart Labs   | -                              | Medium     | -          | -          | [go](solutions/309) |
 |310| Pivotal        | -                              | Easy       | -          | -          | [go](solutions/310) |
-|311| Sumo Logic     | -                              | Easy       | -          | -          | [go](solutions/311) |
+|311| Sumo Logic     | Given an unsorted array, in which all elements are distinct, find a "peak" element in O(log N) time. | Easy       | -          | C++ | [go](solutions/311) |
 |312| Wayfair        | -                              | Easy       | -          | -          | [go](solutions/312) |
 |313| Citrix         | -                              | Hard       | -          | -          | [go](solutions/313) |
 |314| Spotify        | -                              | Medium     | -          | -          | [go](solutions/314) |
