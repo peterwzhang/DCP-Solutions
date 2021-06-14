@@ -393,7 +393,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |376| Google         | -                              | Easy       | -          | -          | [go](solutions/376) |
 |377| Microsoft      | -                              | Hard       | -          | -          | [go](solutions/377) |
 |378| Coinbase       | -                              | Medium     | -          | -          | [go](solutions/378) |
-|379| Microsoft      | -                              | Easy       | -          | -          | [go](solutions/379) |
+|379| Microsoft      | Given a string, generate all possible subsequences of the string. | Easy       | -          | C++ | [go](solutions/379) |
 |380| Nextdoor       | -                              | Medium     | -          | -          | [go](solutions/380) |
 |381| Paypal         | -                              | Easy       | -          | -          | [go](solutions/381) |
 |382| Google         | -                              | Easy       | -          | -          | [go](solutions/382) |
