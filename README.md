@@ -173,7 +173,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |156| Facebook       | -                              | Medium     | -          | -          | [go](solutions/156) |
 |157| Amazon         | -                              | Easy       | -          | -          | [go](solutions/157) |
 |158| Slack          | -                              | Medium     | -          | -          | [go](solutions/158) |
-|159| Google         | -                              | Easy       | -          | -          | [go](solutions/159) |
+|159| Google         | Given a string, return the first recurring character in it, or null if there is no recurring character. | Easy       | -          | C++ | [go](solutions/159) |
 |160| Uber           | -                              | Hard       | -          | -          | [go](solutions/160) |
 |161| Facebook       | -                              | Easy       | -          | -          | [go](solutions/161) |
 |162| Square         | -                              | Medium     | -          | -          | [go](solutions/162) |
