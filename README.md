@@ -228,7 +228,8 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |211| Microsoft      | -                              | Medium     | -          | -          | [go](solutions/211) |
 |212| Dropbox        | -                              | Easy       | -          | -          | [go](solutions/212) |
 |213| Snapchat       | -                              | Medium     | -          | -          | [go](solutions/213) |
-|214| Stripe         | -                              | Easy       | -          | -          | [go](solutions/214) |
+|214| Stripe         | Given an integer n, return the length of the longest consecutive run of 1s in
+its binary representation. | Easy       | -          | C++ | [go](solutions/214) |
 |215| Yelp           | -                              | Medium     | -          | -          | [go](solutions/215) |
 |216| Facebook       | -                              | Medium     | -          | -          | [go](solutions/216) |
 |217| Oracle         | -                              | Hard       | -          | -          | [go](solutions/217) |
