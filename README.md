@@ -67,7 +67,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |050| Microsoft      | -                              | Easy       | -          | -          | [go](solutions/050) |
 |051| Facebook       | -                              | Medium     | -          | -          | [go](solutions/051) |
 |052| Google         | -                              | Hard       | -          | -          | [go](solutions/052) |
-|053| Apple          | -                              | Medium     | -          | -          | [go](solutions/053) |
+|053| Apple          | Implement a queue using two stacks. | Medium     | -          | C++ | [go](solutions/053) |
 |054| Dropbox        | -                              | Hard       | -          | -          | [go](solutions/054) |
 |055| Microsoft      | -                              | Easy       | -          | -          | [go](solutions/055) |
 |056| Google         | -                              | Medium     | -          | -          | [go](solutions/056) |
@@ -228,8 +228,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |211| Microsoft      | -                              | Medium     | -          | -          | [go](solutions/211) |
 |212| Dropbox        | -                              | Easy       | -          | -          | [go](solutions/212) |
 |213| Snapchat       | -                              | Medium     | -          | -          | [go](solutions/213) |
-|214| Stripe         | Given an integer n, return the length of the longest consecutive run of 1s in
-its binary representation. | Easy       | -          | C++ | [go](solutions/214) |
+|214| Stripe         | Given an integer n, return the length of the longest consecutive run of 1s in its binary representation. | Easy       | -          | C++ | [go](solutions/214) |
 |215| Yelp           | -                              | Medium     | -          | -          | [go](solutions/215) |
 |216| Facebook       | -                              | Medium     | -          | -          | [go](solutions/216) |
 |217| Oracle         | -                              | Hard       | -          | -          | [go](solutions/217) |
