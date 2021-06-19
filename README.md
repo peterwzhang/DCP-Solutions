@@ -88,7 +88,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |071| Two Sigma      | -                              | Easy       | -          | -          | [go](solutions/071) |
 |072| Google         | -                              | Hard       | -          | -          | [go](solutions/072) |
 |073| Google         | -                              | Easy       | -          | -          | [go](solutions/073) |
-|074| Apple          | -                              | Medium     | -          | -          | [go](solutions/074) |
+|074| Apple          | Given integers N and X, write a function that returns the number of times X appears as a value in an N by N multiplication table. | Medium     | -          | C++ | [go](solutions/074) |
 |075| Microsoft      | -                              | Hard       | -          | -          | [go](solutions/075) |
 |076| Google         | -                              | Medium     | -          | -          | [go](solutions/076) |
 |077| Snapchat       | -                              | Easy       | -          | -          | [go](solutions/077) |
