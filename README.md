@@ -45,7 +45,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |028| Palantir       | -                              | Medium     | -          | -          | [go](solutions/028) |
 |029| Amazon         | -                              | Easy       | -          | -          | [go](solutions/029) |
 |030| Facebook       | -                              | Medium     | -          | -          | [go](solutions/030) |
-|031| Google         | -                              | Easy       | -          | -          | [go](solutions/031) |
+|031| Google         | Given two strings, compute the edit distance between them. | Easy       | -          | C++ | [go](solutions/031) |
 |032| Jane Street    | -                              | Hard       | -          | -          | [go](solutions/032) |
 |033| Microsoft      | -                              | Easy       | -          | -          | [go](solutions/033) |
 |034| Quora          | -                              | Medium     | -          | -          | [go](solutions/034) |
