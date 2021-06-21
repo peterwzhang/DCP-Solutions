@@ -141,7 +141,7 @@ Below we have a table of all the DCPs (1-399). The table contains the question n
 |124| Microsoft      | -                              | Easy       | -          | -          | [go](solutions/124) |
 |125| Google         | -                              | Easy       | -          | -          | [go](solutions/125) |
 |126| Facebook       | Write a function that rotates a list by k elements. | Medium     | -          | C++ | [go](solutions/126) |
-|127| Microsoft      | -                              | Easy       | -          | -          | [go](solutions/127) |
+|127| Microsoft      | Given two linked lists in this format, return their sum in the same linked list format. | Easy       | -          | C++ | [go](solutions/127) |
 |128| None           | -                              | Medium     | -          | -          | [go](solutions/128) |
 |129| None           | -                              | Medium     | -          | -          | [go](solutions/129) |
 |130| Facebook       | -                              | Medium     | -          | -          | [go](solutions/130) |
